@@ -2,7 +2,7 @@
 This is a backend server build on express and use aimple javascript? The main idea of this project is to build a simple backend on express? You can see a application that use this backend at https://urlshort.click/Weather
 
 ## Get Started
-In the project directory, you can run:
+After cloning or downloading the repositoy project directory, you can run:
 `npm install`
 This will install all the required modules in package.json
 
